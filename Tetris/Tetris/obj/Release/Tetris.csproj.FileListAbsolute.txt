@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Tetris\Tetris\obj\Release\Tetris.Form1.resources
+C:\Users\User\source\repos\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\Tetris\Tetris\obj\Release\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tetris\Tetris\obj\Release\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Tetris\Tetris\obj\Release\Tetris.Form2.resources
+C:\Users\User\source\repos\Tetris\Tetris\bin\Release\Tetris2022.exe.config
+C:\Users\User\source\repos\Tetris\Tetris\bin\Release\Tetris2022.exe
+C:\Users\User\source\repos\Tetris\Tetris\bin\Release\Tetris2022.pdb
+C:\Users\User\source\repos\Tetris\Tetris\obj\Release\Tetris2022.Properties.Resources.resources
+C:\Users\User\source\repos\Tetris\Tetris\obj\Release\Tetris2022.exe
+C:\Users\User\source\repos\Tetris\Tetris\obj\Release\Tetris2022.pdb
